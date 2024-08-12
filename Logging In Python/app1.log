@@ -1,0 +1,11 @@
+2024-08-12 18:16:45-Arithmetic Operations-DEBUG-Adding 10 + 15 = 25
+2024-08-12 18:16:45-Arithmetic Operations-DEBUG-Substracting 15 - 10 = 5
+2024-08-12 18:16:45-Arithmetic Operations-DEBUG-Multiplying 10 * 12 = 120
+2024-08-12 18:16:56-Arithmetic Operations-DEBUG-Adding 10 + 15 = 25
+2024-08-12 18:16:56-Arithmetic Operations-DEBUG-Substracting 15 - 10 = 5
+2024-08-12 18:16:56-Arithmetic Operations-DEBUG-Multiplying 10 * 12 = 120
+2024-08-12 18:16:56-Arithmetic Operations-DEBUG-Dividing 20 / 2 = 10.0
+2024-08-12 18:17:13-Arithmetic Operations-DEBUG-Adding 10 + 15 = 25
+2024-08-12 18:17:13-Arithmetic Operations-DEBUG-Substracting 15 - 10 = 5
+2024-08-12 18:17:13-Arithmetic Operations-DEBUG-Multiplying 10 * 12 = 120
+2024-08-12 18:17:13-Arithmetic Operations-ERROR-Division by zero error
